@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="320" viewBox="0 0 1180 320" role="img" aria-label="Leno Renaud — Engineering Profile Overview">
+  <defs>
+    <linearGradient id="hero-light-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8fc"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <pattern id="hero-light-grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#475569" stroke-opacity="0.08" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+
+  <!-- Outer neon terminal window (light mode) -->
+  <rect x="1" y="1" width="1178" height="318" rx="18" fill="url(#hero-light-bg)" stroke="#d7dee8" stroke-width="2"/>
+  <rect x="1" y="1" width="1178" height="318" rx="18" fill="url(#hero-light-grid)"/>
+
+  <!-- Terminal title bar -->
+  <path d="M1 18A17 17 0 0 1 18 1h1144a17 17 0 0 1 17 17v25H1z" fill="#ffffff" fill-opacity="0.94"/>
+  <line x1="1" y1="43" x2="1179" y2="43" stroke="#d7dee8"/>
+  <circle cx="24" cy="22" r="5" fill="#ff5f56"/>
+  <circle cx="42" cy="22" r="5" fill="#ffbd2e"/>
+  <circle cx="60" cy="22" r="5" fill="#27c93f"/>
+  <text x="590" y="27" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#475569">leno-renaud@github ~ $ ./whoami.sh</text>
+  <circle cx="1076" cy="22" r="4" fill="#0d96d4">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1088" y="26" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="800" letter-spacing="1.2" fill="#0d96d4">PROFILE</text>
+
+  <!-- Inner panel -->
+  <rect x="22" y="62" width="1136" height="236" rx="14" fill="#ffffff" fill-opacity="0.92" stroke="#d7dee8"/>
+  <text x="44" y="86" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="2" fill="#475569">ABOUT.ME</text>
+
+  <!-- Primary role headline -->
+  <text x="44" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22.5" font-weight="700" fill="#0f172a">
+    Networks &amp; Telecommunications Engineering Student at INSA Lyon
+    <tspan fill="#0284c7" font-weight="600"> (MSc, 2023–2028)</tspan>
+  </text>
+
+  <!-- Highlight badges -->
+  <rect x="44" y="140" width="388" height="34" rx="8" fill="#e0f2fe" stroke="#7dd3fc"/>
+  <text x="238" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="600" fill="#0369a1">AI/ML in Aerospace · Politecnico di Torino (BIP)</text>
+
+  <rect x="446" y="140" width="384" height="34" rx="8" fill="#e0f2fe" stroke="#7dd3fc"/>
+  <text x="638" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="600" fill="#0369a1">Wavestone WaveGame 2025 Finalist (4th / 65)</text>
+
+  <!-- Subtle divider -->
+  <line x1="44" y1="192" x2="1134" y2="192" stroke="#cbd5e1"/>
+
+  <!-- Value proposition -->
+  <text x="44" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18.5" fill="#1e293b">Designing end-to-end systems — from embedded hardware &amp; real-time DSP</text>
+  <text x="44" y="248" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18.5" fill="#1e293b">to cloud-native Kubernetes microservices and full-stack web apps.</text>
+
+  <!-- Metadata footer -->
+  <text x="44" y="282" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#0284c7">
+    ▸ Trilingual:<tspan fill="#0f172a" font-weight="600"> French · English · German</tspan>
+    <tspan fill="#94a3b8" dx="22">|</tspan>
+    <tspan fill="#0284c7" dx="22">▸ Based in:</tspan><tspan fill="#0f172a" font-weight="600"> Lyon, France</tspan>
+  </text>
+</svg>
