@@ -1,7 +1,5 @@
 <div align="center">
 
-<p><code>leno-renaud@github ~ $ ./whoami.sh</code></p>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-intro-light.svg" />
@@ -45,15 +43,6 @@
 
 ## Technical Stack
 
-<p><code>leno-renaud@github ~ $ ls skills/</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&style=terminal&v=oss-stack-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&style=terminal&v=oss-stack-2&mode=dark" width="100%" alt="Leno Elliel Renaud technical stack" />
-</picture>
-</p>
-
 <table width="100%">
 <tr>
 <td width="24%"><strong>Languages</strong></td>
@@ -78,15 +67,6 @@
 </table>
 
 ## Featured Projects
-
-<p><code>leno-renaud@github ~ $ ./projects.sh --featured</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&repos=leno-renaud%2Fserverless-calculator-knative%2Cleno-renaud%2FGNS3-router-config-automation-RIP_OSPF_BGP%2Cleno-renaud%2Fsafe-travel-iot-transport-monitoring%2Cleno-renaud%2Fpolyphonic-synth-dsp&v=oss-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&repos=leno-renaud%2Fserverless-calculator-knative%2Cleno-renaud%2FGNS3-router-config-automation-RIP_OSPF_BGP%2Cleno-renaud%2Fsafe-travel-iot-transport-monitoring%2Cleno-renaud%2Fpolyphonic-synth-dsp&v=oss-projects-2&mode=dark" width="860" alt="Leno Elliel Renaud featured repositories" />
-</picture>
-</p>
 
 <table width="100%">
 <tr>
@@ -145,34 +125,31 @@
 </picture>
 </p>
 
-<details>
-<summary><code>leno-renaud@github ~ $ neofetch</code> (live GitHub snapshot)</summary>
-<br />
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&style=terminal&v=oss-stats-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&style=terminal&v=oss-stats-2&mode=dark" width="100%" alt="Leno Elliel Renaud live GitHub stats" />
-</picture>
-</p>
-</details>
-
 <hr />
 
 ## Get in Touch
 
-<p><code>leno-renaud@github ~ $ contact --connect</code></p>
-
 <p>Open to discussing software engineering, cloud &amp; network infrastructure, full-stack development, and embedded/IoT opportunities.</p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&linkedin=leno-renaud-4476a4342&email=leno.renaud%40gmail.com&v=oss-social-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=leno-renaud&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92721666%3Fv%3D4&linkedin=leno-renaud-4476a4342&email=leno.renaud%40gmail.com&v=oss-social-2&mode=dark" width="100%" alt="Leno Elliel Renaud contact links" />
-</picture>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leno-renaud-4476a4342/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:leno.renaud@gmail.com">leno.renaud@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Leno-Renaud">GitHub</a>
+  <a href="https://github.com/Leno-Renaud">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/contact-github-light.svg" />
+      <img src="./assets/contact-github-dark.svg" width="255" alt="GitHub @Leno-Renaud" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/leno-renaud-4476a4342/">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/contact-linkedin-light.svg" />
+      <img src="./assets/contact-linkedin-dark.svg" width="255" alt="LinkedIn Leno Renaud" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:leno.renaud@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/contact-email-light.svg" />
+      <img src="./assets/contact-email-dark.svg" width="320" alt="Email leno.renaud@gmail.com" />
+    </picture>
+  </a>
 </p>
